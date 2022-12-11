@@ -1,0 +1,10 @@
+section {
+    display: grid;
+    grid-template-columns: 25% 80%;
+}
+
+@media only screen and (max-width: 1200px) {
+    section {
+        display: block;
+    }
+}

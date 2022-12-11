@@ -8,14 +8,15 @@ h1 {
 
 table {
     border-collapse: collapse;
-    margin-left: 38%;
+    display: flex;
+    justify-content: center;
     text-align: center;
-    border: solid 3px rgb(103, 11, 16);
-    background-color: rgb(124, 196, 128);
+    margin-bottom: 4vh;
 }
 
 tr {
     border: solid 2px rgb(94, 142, 22);
+    background-color: rgb(175, 230, 65);
     padding: 2px;
 }
 

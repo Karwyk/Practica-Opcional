@@ -9,7 +9,7 @@ p {
 
 input {
     padding: 4px;
-    width: 14%;
+    width: 40vh;
 }
 
 button {
@@ -17,7 +17,7 @@ button {
     padding: 1em;
     border-radius: 8%;
     font-weight: bold;
-    width: 8%;
+    width: 20vh;
 }
 
 button:hover {
